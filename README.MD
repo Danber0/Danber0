@@ -11,13 +11,13 @@
 
 - 👨‍💻 My projects are available at:
   
-  Chat       - [https://web-production-efd2.up.railway.app/](https://web-production-efd2.up.railway.app/)
-  Math       - [https://react-math.vercel.app/](https://react-math.vercel.app/)
-  DragTodo   - [https://drag-todo.vercel.app/](https://drag-todo.vercel.app/)
-  Todo       - [https://todolist-production-323c.up.railway.app/#/](https://todolist-production-323c.up.railway.app/#/)
-  MemoryGame - [https://danber-next-game.vercel.app/](https://danber-next-game.vercel.app/)
-  Pizza      - [https://danber-pizza.vercel.app/](https://danber-pizza.vercel.app/)
-  SpeedWord  - [https://speed-word.vercel.app/](https://speed-word.vercel.app/)
+  Chat       - [https://web-production-efd2.up.railway.app/](https://web-production-efd2.up.railway.app/) \n
+  Math       - [https://react-math.vercel.app/](https://react-math.vercel.app/) \n
+  DragTodo   - [https://drag-todo.vercel.app/](https://drag-todo.vercel.app/) \n
+  Todo       - [https://todolist-production-323c.up.railway.app/#/](https://todolist-production-323c.up.railway.app/#/) \n
+  MemoryGame - [https://danber-next-game.vercel.app/](https://danber-next-game.vercel.app/) \n
+  Pizza      - [https://danber-pizza.vercel.app/](https://danber-pizza.vercel.app/) \n
+  SpeedWord  - [https://speed-word.vercel.app/](https://speed-word.vercel.app/) \n
   
 
 <h3 align="center">Languages and Tools:</h3>
