@@ -11,10 +11,10 @@
 
 - 👨‍💻 My projects are available at:
   
-  Chat       - [https://web-production-efd2.up.railway.app/](https://web-production-efd2.up.railway.app/) </br>
+  Chat       - [https://github.com/Danber0/react-chat](https://github.com/Danber0/react-chat) </br>
   Math       - [https://react-math.vercel.app/](https://react-math.vercel.app/) </br>
   DragTodo   - [https://drag-todo.vercel.app/](https://drag-todo.vercel.app/) </br>
-  Todo       - [https://todolist-production-323c.up.railway.app/#/](https://todolist-production-323c.up.railway.app/#/) </br>
+  Todo       - [https://github.com/Danber0/ToDoList](https://github.com/Danber0/ToDoList) </br>
   MemoryGame - [https://danber-next-game.vercel.app/](https://danber-next-game.vercel.app/) </br>
   Pizza      - [https://danber-pizza.vercel.app/](https://danber-pizza.vercel.app/) </br>
   SpeedWord  - [https://speed-word.vercel.app/](https://speed-word.vercel.app/) </br>
