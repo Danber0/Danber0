@@ -12,7 +12,8 @@
 - 📄 Know about my experiences [https://www.linkedin.com/in/daniil-bergauzen-78b7a7218/](https://www.linkedin.com/in/daniil-bergauzen-78b7a7218/)
 
 - 👨‍💻 My projects are available at:
-  
+
+  Expenses  - [https://react-expenses-six.vercel.app/](https://react-expenses-six.vercel.app/) </br>
   Chat       - [https://github.com/Danber0/react-chat](https://github.com/Danber0/react-chat) </br>
   Math       - [https://react-math.vercel.app/](https://react-math.vercel.app/) </br>
   DragTodo   - [https://drag-todo.vercel.app/](https://drag-todo.vercel.app/) </br>
